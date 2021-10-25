@@ -1,4 +1,5 @@
 ## Hi there! I'm Jonas Nunes... 👋
+<a href="https://github.com/jonasnunes" target="_blank"><img src="https://img.shields.io/badge/GitHub-Jonas%20Nunes-brightgreen"></a>
 
 - 📗 Studying.: HTML, CSS e JS
 - 📬 Contact.: jonas.nunees@yahoo.com.br
