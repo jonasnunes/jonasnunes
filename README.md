@@ -1,7 +1,7 @@
-## Olá! Seja Bem vindo... 👋
+## Hi there! I'm Jonas Nunes... 👋
 
-- 📗 Estudando.: HTML, CSS e JS
-- 📬 Contato.: jonas.nunees@yahoo.com.br
+- 📗 Studying.: HTML, CSS e JS
+- 📬 Contact.: jonas.nunees@yahoo.com.br
 
 <div align="center">
   <a href="https://github.com/jonasnunes">
