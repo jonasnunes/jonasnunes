@@ -1,5 +1,6 @@
 <img src="https://media0.giphy.com/media/k81NasbqkKA5HSyJxN/giphy.gif?cid=ecf05e4708te94gxxk65no4ui3yma8g448rnhewemp5xqfix&rid=giphy.gif&ct=g"
-     height="500em">
+     height="300em"
+     width="700em">
 
 ## Hi there! I'm Jonas Nunes... 👋
 <a href="https://github.com/jonasnunes" target="_blank"><img src="https://img.shields.io/badge/GitHub-Jonas%20Nunes-brightgreen"></a>
