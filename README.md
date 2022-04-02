@@ -1,6 +1,6 @@
 <img src="https://media0.giphy.com/media/k81NasbqkKA5HSyJxN/giphy.gif?cid=ecf05e4708te94gxxk65no4ui3yma8g448rnhewemp5xqfix&rid=giphy.gif&ct=g"
-     height="300em"
-     width="700em">
+     height="500em"
+     width="100%">
 
 ## Hi there! I'm Jonas Nunes... 👋
 <a href="https://github.com/jonasnunes" target="_blank"><img src="https://img.shields.io/badge/GitHub-Jonas%20Nunes-brightgreen"></a>
@@ -18,7 +18,7 @@
   <img align="center" alt="Jonas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jonas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jonas-Cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  <img align="center" alt="Jonas-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="Jonas-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 </div>
   
   ##
@@ -32,5 +32,3 @@
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white">
 <img src="https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white">
-  
-![Snake animation](https://github.com/jonasnunes/rafaballerini/blob/output/github-contribution-grid-snake.svg)
