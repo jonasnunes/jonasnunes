@@ -1,7 +1,3 @@
-<img src="https://media0.giphy.com/media/k81NasbqkKA5HSyJxN/giphy.gif?cid=ecf05e4708te94gxxk65no4ui3yma8g448rnhewemp5xqfix&rid=giphy.gif&ct=g"
-     height="500em"
-     width="100%">
-
 ## Hi there! I'm Jonas Nunes... 👋
 <a href="https://github.com/jonasnunes" target="_blank"><img src="https://img.shields.io/badge/GitHub-Jonas%20Nunes-brightgreen"></a>
 
@@ -32,3 +28,7 @@
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white">
 <img src="https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white">
+
+<img src="https://media0.giphy.com/media/k81NasbqkKA5HSyJxN/giphy.gif?cid=ecf05e4708te94gxxk65no4ui3yma8g448rnhewemp5xqfix&rid=giphy.gif&ct=g"
+     height="500em"
+     width="100%">
