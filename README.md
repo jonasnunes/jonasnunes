@@ -1,7 +1,7 @@
 ## Hi there! I'm Jonas Nunes... 👋
 <a href="https://github.com/jonasnunes" target="_blank"><img src="https://img.shields.io/badge/GitHub-Jonas%20Nunes-brightgreen"></a>
 
-- 📗 Studying.: HTML | CSS | SASS | JS
+- 📗 Studying.: Python | Power BI | SQL
 - 📬 Contact.: jonas.nunees@yahoo.com.br
 
 <div align="center">
