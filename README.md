@@ -16,4 +16,4 @@
 
 ![Jonas Nunes's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonasnunes&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonasnunes&hide=jupyter%20notebook,python,javascript,sass&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonasnunes&layout=compact&hide=jupyter%20notebook,python,javascript,sass&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
