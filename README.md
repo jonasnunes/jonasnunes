@@ -1,6 +1,6 @@
 <h1 align="center">I'm Jonas Nunes</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Programador+PHP)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Desenvolvedor)](https://git.io/typing-svg)
 
 ### Skills
 
