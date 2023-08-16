@@ -1,10 +1,10 @@
 <h1 align="center">I'm Jonas Nunes</h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Analista+de+Seguran%C3%A7a+da+Informa%C3%A7%C3%A3o" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Web+Developer+-+Front+End" alt="Typing SVG" /></a>
 
 ### Skills
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Desenvolvimento+Web+-+HTML+%7C+CSS;Windows+%7C+Linux;Redes+de+Computadores;Seguran%C3%A7a+da+Informa%C3%A7%C3%A3o" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=HTML+%7C+CSS+%7C+JavaScript" alt="Typing SVG" /></a>
 
 ### Education
 
